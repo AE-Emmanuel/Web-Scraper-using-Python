@@ -2,13 +2,7 @@
 # Web Scraper using Python (Requests & BeautifulSoup)
 
 Welcome to the Web Scraper repository! This project is a simple web scraper that extracts text, links, and images from a specified webpage using Python's requests and BeautifulSoup libraries.
-Table of Contents
 
-    Overview
-    Features
-    Installation
-    Usage
-    License
 
 ## Overview
 
